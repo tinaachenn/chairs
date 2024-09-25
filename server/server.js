@@ -1,14 +1,12 @@
 import express from 'express';
-import chairsRouter from './routes/chairs.js'; // Ensure this path is correct
+import chairsRouter from './routes/chairs.js';
 
 const app = express();
 
 // Serve static files
 app.use('/public', express.static('./public'));
 app.use('/scripts', express.static('./public/scripts'));
-
-// Use the chairs router for /chairs endpoint
-app.use('/chairs', chairsRouter); 
+app.use('/chairs', chairsRouter); // Use the chairs router for /chairs endpoint
 
 // Root endpoint
 app.get('/', (req, res) => {
