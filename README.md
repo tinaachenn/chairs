@@ -34,7 +34,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/c51eedb09d2e4f45abeddd4f3d4f4d49?sid=a3ff7895-542c-4fba-9d3b-95ee1159e652' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+    <a href="https://www.loom.com/share/c51eedb09d2e4f45abeddd4f3d4f4d49">
+      <p>Web 103 Unit 1 - Chairs Chairs Chairs - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/c51eedb09d2e4f45abeddd4f3d4f4d49">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c51eedb09d2e4f45abeddd4f3d4f4d49-c8363abe8185eca5-full-play.gif">
+    </a>
+  </div>
+<img src='https://cdn.loom.com/sessions/thumbnails/c51eedb09d2e4f45abeddd4f3d4f4d49-c8363abe8185eca5-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
