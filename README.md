@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/c51eedb09d2e4f45abeddd4f3d4f4d49?sid=f0b71783-08e2-41d0-ace5-55ef673c9d11' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/c51eedb09d2e4f45abeddd4f3d4f4d49?sid=a3ff7895-542c-4fba-9d3b-95ee1159e652' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
@@ -48,6 +48,12 @@ GIF created with Loom
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
+
+I had a lot of trouble with routing the webpages. It was my first time learning express routing and so it was challenging
+to learn the concept as well as making sure I was linking all the correct files and paths.
+
+Additionally, learning a new CSS tool like Pico CSS was challenging because I had to brush up on my documentation reading
+skills. It was also a lot having to learn how to use it on top of normal CSS styling and fixing any conflicts.
 
 ## License
 
