@@ -42,7 +42,7 @@ Here's a walkthrough of implemented required features:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c51eedb09d2e4f45abeddd4f3d4f4d49-c8363abe8185eca5-full-play.gif">
     </a>
   </div>
-<img src='https://cdn.loom.com/sessions/thumbnails/c51eedb09d2e4f45abeddd4f3d4f4d49-c8363abe8185eca5-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='https://cdn.loom.com/sessions/thumbnails/c51eedb09d2e4f45abeddd4f3d4f4d49-c8363abe8185eca5-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
 
