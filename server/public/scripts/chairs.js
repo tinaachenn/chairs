@@ -13,8 +13,13 @@ const renderChairs = async () => {
     if (data) {
 
         data.map(chair => {
-            const card = document.createElement('div')
+
+            const grid = document.createElement('div')
+            const card = document.createElement('article')
             card.classList.add('card')
+            card.classList.add('grid')
+
+            grid.appendChild(card)
 
             const topContainer = document.createElement('div')
             topContainer.classList.add('top-container')
@@ -51,15 +56,19 @@ const renderChairs = async () => {
         const message = document.createElement('h2')
         message.textContent = 'No Chairs Available 😞'
         mainContent.appendChild(message)
+        console.log("no chairs available")
     }
 }
 
-// const requestedUrl = window.location.href.split('/').pop()
+console.log("get to 404")
+const requestedUrl = window.location.href.split('/').pop()
+console.log(requestedUrl)
 
-// if (requestedUrl) {
-//     window.location.href = '../404.html'
-//   }
-//   else {
+
+if (requestedUrl) {
+    window.location.href = '../404.html'
+  }
+  else {
     renderChairs()
 
-//   }
+  }

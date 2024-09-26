@@ -22,9 +22,22 @@ const renderChair = async () => {
         document.title = `Chairs - ${chair.name}`      
     }
     else {
-        const message = document.createElement('h2')
-        message.textContent = 'No Chairs Available 😞'
-        chairContent.appendChild(message)       
+        // const message = document.createElement('h2')
+        // message.textContent = 'No Chairs Available 😞'
+        // chairContent.appendChild(message)
+        
+        console.log("get to 404")
+        const requestedUrl = window.location.href.split('/').pop()
+        console.log(requestedUrl)
+        
+        
+        if (requestedUrl) {
+            window.location.href = '../404.html'
+          }
+          else {
+            renderChairs()
+        
+          }        
     }
 
 }

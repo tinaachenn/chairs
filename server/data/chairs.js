@@ -5,7 +5,7 @@ const chairData = [
         "id": 1,
         "name": "Elephant Seating",
         "designer": "Ben Ryuki Miyagi",
-        "year": "2003s",
+        "year": "2003",
         "image":"https://architizer-prod.imgix.net/media/mediadata/uploads/1556741260075ElephantSeatingYearbookRevisedA.jpg?w=1680&q=60&auto=format,compress&cs=strip",
         "materials":"Industrial felt sheets (glued and folded)"
     },

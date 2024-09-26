@@ -5,55 +5,39 @@
   color: black;
 }
 
-/* Header CSS */
-.header-container {
-  overflow: hidden;
-  padding: 20px 10px;
-  padding-bottom: 60px;
+header {
+  height: 20px;
 }
 
-.header-left {
-  float: left;
-  height: 100px;
-  width: 310px;
-}
-
-.header-left img {
+.header img {
   padding-top: 8px;
   height: 80px;
 }
 
-.header-left h1 {
-  float: right;
-  font-size: 45px;
+.card {
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
-.header-right {
-  float: right;
-  padding-top: 30px;
-  padding-right: 10px;
+.grid {
+  align-items: center;
 }
 
-.header-right button {
-  background-color: white;
-  border: solid;
-  border-width: 3px;
-  border-color: rgb(3, 7, 89);
-  border-radius: 0.1rem;
-  border-radius: 16px;
-  box-sizing: border-box;
-  color: rgb(3, 7, 89);
-  cursor: pointer;
-  padding: 15px 16px;
-  text-align: center;
-  text-transform: uppercase;
-  touch-action: manipulation;
-  width: 80px;
+.card img {
+  max-height: 100%;
+}
+
+.top-container {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 350px;
+  width: 350px;
 }
 
 /* Home page CSS */
 
-main {
+/* main {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -103,7 +87,7 @@ main {
 .bottom-container a {
   color: rgb(228, 16, 133);
   text-decoration: none;
-}
+} */
 
 /* 404 Page CSS */
 
@@ -135,24 +119,4 @@ main {
   to {
     box-shadow: inset -3px 0px 0px transparent;
   }
-}
-
-/* Detail Page CSS*/
-
-.gift-info {
-  display: flex;
-  flex-direction: row;
-}
-
-.image-container {
-  padding-left: 100px;
-  width: 40vw;
-}
-
-.image-container img {
-  width: 80%;
-}
-
-.gift-details {
-  width: 45vw;
 }
