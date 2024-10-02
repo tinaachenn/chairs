@@ -40,9 +40,9 @@ GIF created with Loom
       <p>Web 103 - Unit 2 Chairs w/ Database - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/d28f356a4bb14b2da310af78e60e59a9">
-      <img style="max-width:300px;" src="null">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d28f356a4bb14b2da310af78e60e59a9-d99efc702554db53-full-play.gif">
     </a>
-</div>
+  </div>
 
 ## Notes
 
