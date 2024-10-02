@@ -1,4 +1,5 @@
 import express from 'express';
+import dotenv from 'dotenv'
 import chairsRouter from './routes/chairs.js';
 
 const app = express();
